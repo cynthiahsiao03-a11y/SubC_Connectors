@@ -16,7 +16,11 @@ The connectors were modeled in SolidWorks according to the exact interface dimen
 
 <p align="center">
 SolidWork Labelled Diagram of Connectors: <br/>
-<img src="https://i.imgur.com/ROWsgsl.png" height="100%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ROWsgsl.png" height="100%" width="80%" alt="Connectors"/>
+
+<p align="center">
+SolidWork Labelled Diagram of Connectors: <br/>
+<img src="https://i.imgur.com/4drxscN.png" height="100%" width="80%" alt="CAD"/>
 
 </p>
 
